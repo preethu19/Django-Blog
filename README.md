@@ -39,7 +39,7 @@ python app.py
 # Technologies Used
 
 ![Image 1](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)
-![Image 2](https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png)
+![Image 2](https://github.com/preethu19/Django-Blog/blob/master/django.png)
 ![Image 3](https://gunicorn.org/images/logo.jpg)
 
 # Team
