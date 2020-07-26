@@ -17,7 +17,7 @@ link : https://django-blog-app1.herokuapp.com/
 
 • A glimpse of the web app:
 
- ![GIF](https://github.com/preethu19/IPLFirstInningsPrediction/blob/master/IPLFirstInningsPredictor.gif)
+ ![GIF](https://github.com/preethu19/Django-Blog/blob/master/django-blog.gif)
 
 
 # Installation
@@ -29,11 +29,14 @@ pip install -r requirements.txt
 # Run
 
 ```python
-python app.py
+python manage.py runserver
 ```
 
 # Future Scope
 
+- Use of Amazon s3 bucket to store static files
+- Adding follow feature
+- Improving UI
 
 
 # Technologies Used
