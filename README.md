@@ -1,6 +1,6 @@
 # Django-Blog
 
-This repository consists of files of a Blog-App created with Flask. This has features like:
+This repository consists of files of a Blog-App created with django. This has features like:
 - Sign and Login Authentication
 - Reset Password option with email verification
 - Create, Edit and Delete Blog Post
